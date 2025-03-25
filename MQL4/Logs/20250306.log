@@ -1,0 +1,96 @@
+0	10:59:52.436	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	10:59:52.436	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	10:59:52.476	Custom indicator ZigZag US2000,H1: loaded successfully
+0	10:59:54.171	ZigZag US2000,H1: initialized
+0	10:59:57.116	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: [PUSH] Binding MT4 Server to Socket on Port 32769..
+0	10:59:57.116	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: [PULL] Binding MT4 Server to Socket on Port 32768..
+0	10:59:57.116	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: [PUB] Binding MT4 Server to Socket on Port 32770..
+0	10:59:57.116	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: initialized
+0	11:00:36.987	Compiling 'CArrayTest'
+0	11:02:56.583	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: uninit reason 7
+0	11:02:56.583	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: [PUSH] Unbinding MT4 Server from Socket on Port 32769..
+0	11:02:56.583	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: [PULL] Unbinding MT4 Server from Socket on Port 32768..
+0	11:02:56.597	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: removed
+0	11:02:56.608	Custom indicator MACD BTCUSD,H1: loaded successfully
+0	11:02:56.615	Custom indicator RSI BTCUSD,H1: loaded successfully
+0	11:02:56.622	Expert Zeus BTCUSD,H1: loaded successfully
+0	11:02:56.622	Zeus BTCUSD,H1 inputs: ema5_purple=5; ema13_red=13; ema50_aqua=50; ema200_grey=200; ema800_blue=800; macd1_fast=12; macd1_slow=26; macd1_signal=9; rsi_period=14; ttresh=0.1; gthresh=0.5; epsilon=0.3; sr_epsilon=0.5; dr_epsilon=1.0; sr_confirm=2; max_period=200; maxnumsr=70; maxnumcl=7; maxnumpp=150; prd=10; channel_width=10; min_strength=2; interval=1000; style=1; width=2; background=false; min_fonts=1; 
+0	11:02:56.640	MACD BTCUSD,H1: initialized
+0	11:02:56.650	RSI BTCUSD,H1: initialized
+0	11:02:56.664	Zeus BTCUSD,H1: initialized
+0	11:10:11.196	MACD BTCUSD,H1: uninit reason 4
+0	11:10:11.196	RSI BTCUSD,H1: uninit reason 4
+0	11:10:13.100	Zeus BTCUSD,H1: uninit reason 4
+0	11:10:13.107	Expert Zeus BTCUSD,H1: removed
+0	11:10:13.109	Custom indicator MACD BTCUSD,H1: removed
+0	11:10:13.110	Custom indicator RSI BTCUSD,H1: removed
+0	16:42:03.426	Custom indicator ZigZag US2000,H1: loaded successfully
+0	16:42:05.125	ZigZag US2000,H1: initialized
+0	16:46:42.287	Custom indicator MACD GBPJPY,H1: loaded successfully
+0	16:46:42.294	Custom indicator RSI GBPJPY,H1: loaded successfully
+0	16:46:42.301	Expert Zeus GBPJPY,H1: loaded successfully
+0	16:46:42.301	Zeus GBPJPY,H1 inputs: ema5_purple=5; ema13_red=13; ema50_aqua=50; ema200_grey=200; ema800_blue=800; macd1_fast=12; macd1_slow=26; macd1_signal=9; rsi_period=14; ttresh=0.1; gthresh=0.5; epsilon=0.3; sr_epsilon=0.5; dr_epsilon=1.0; sr_confirm=2; max_period=200; maxnumsr=70; maxnumcl=7; maxnumpp=150; prd=10; channel_width=10; min_strength=2; interval=1000; style=1; width=2; background=false; min_fonts=1; 
+0	16:46:42.310	MACD GBPJPY,H1: initialized
+0	16:46:42.320	RSI GBPJPY,H1: initialized
+0	16:46:42.334	Zeus GBPJPY,H1: initialized
+0	18:24:10.862	MACD GBPJPY,H1: uninit reason 4
+0	18:24:10.862	RSI GBPJPY,H1: uninit reason 4
+0	18:24:10.862	Zeus GBPJPY,H1: uninit reason 4
+0	18:24:10.883	Expert Zeus GBPJPY,H1: removed
+0	18:24:10.887	Custom indicator MACD GBPJPY,H1: removed
+0	18:24:10.888	Custom indicator RSI GBPJPY,H1: removed
+0	18:37:38.573	Custom indicator ZigZag US2000,H1: loaded successfully
+0	18:37:40.297	ZigZag US2000,H1: initialized
+0	18:37:56.459	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:38:07.928	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+1	18:38:07.951	Cannot call 'libzmq.dll::zmq_ctx_new', DLL is not allowed
+1	18:38:07.951	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: unresolved import function call
+3	18:38:07.951	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: global initialization failed
+0	18:38:14.262	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	18:38:30.121	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	18:39:51.592	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	18:40:11.798	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	18:43:39.867	ZigZag US2000,H1: uninit reason 9
+0	18:43:39.906	Custom indicator ZigZag US2000,H1: removed
+0	18:43:39.916	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: removed
+0	18:44:35.334	Custom indicator ZigZag US2000,H1: loaded successfully
+0	18:44:37.042	ZigZag US2000,H1: initialized
+0	18:44:37.126	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:44:37.126	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+1	18:44:40.765	Cannot call 'libzmq.dll::zmq_ctx_new', DLL is not allowed
+1	18:44:40.765	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: unresolved import function call
+3	18:44:40.766	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: global initialization failed
+0	18:45:00.178	ZigZag US2000,H1: uninit reason 9
+0	18:45:00.219	Custom indicator ZigZag US2000,H1: removed
+0	18:45:00.231	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: removed
+0	18:45:25.534	Custom indicator ZigZag US2000,H1: loaded successfully
+0	18:45:27.234	ZigZag US2000,H1: initialized
+0	18:45:27.290	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:45:27.290	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+1	18:45:29.684	Cannot call 'libzmq.dll::zmq_ctx_new', DLL is not allowed
+1	18:45:29.684	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: unresolved import function call
+3	18:45:29.684	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: global initialization failed
+0	18:45:48.921	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	18:46:13.033	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: removed
+0	18:46:18.113	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:46:33.622	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	18:49:07.273	Custom indicator ZigZag US2000,H1: loaded successfully
+0	18:49:08.999	ZigZag US2000,H1: initialized
+0	18:49:09.140	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:49:09.140	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+1	18:49:11.829	Cannot call 'libzmq.dll::zmq_ctx_new', DLL is not allowed
+1	18:49:11.829	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: unresolved import function call
+3	18:49:11.829	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: global initialization failed
+0	18:49:22.361	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: removed
+0	18:49:28.903	ZigZag US2000,H1: uninit reason 9
+0	18:49:28.934	Custom indicator ZigZag US2000,H1: removed
+0	18:49:52.240	Custom indicator ZigZag US2000,H1: loaded successfully
+0	18:49:53.950	ZigZag US2000,H1: initialized
+0	18:50:00.253	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:50:05.241	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: removed
+0	18:50:10.769	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:50:23.684	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: removed
+0	18:51:31.868	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 US2000,H1: loaded successfully
+0	18:51:45.381	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 US2000,H1: removed
+0	18:53:32.379	ZigZag US2000,H1: uninit reason 9
+0	18:53:32.410	Custom indicator ZigZag US2000,H1: removed

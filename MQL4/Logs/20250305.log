@@ -1,0 +1,4 @@
+0	18:14:19.212	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1: loaded successfully
+0	18:14:19.213	DWX_ZeroMQ_Server_v2.0.1_RC8 BTCUSD,H1 inputs: PROJECT_NAME=DWX_ZeroMQ_MT4_Server; ZEROMQ_PROTOCOL=tcp; HOSTNAME=*; PUSH_PORT=32768; PULL_PORT=32769; PUB_PORT=32770; MILLISECOND_TIMER=1; MILLISECOND_TIMER_PRICES=500; t0=--- Trading Parameters ---; MaximumOrders=1; MaximumLotSize=0.01; MaximumSlippage=3; DMA_MODE=true; 
+0	18:14:19.253	Custom indicator ZigZag US2000,H1: loaded successfully
+0	18:14:20.995	ZigZag US2000,H1: initialized
